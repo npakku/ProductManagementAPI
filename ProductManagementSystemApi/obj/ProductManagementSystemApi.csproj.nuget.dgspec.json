@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj": {}
+    "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj": {
+    "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj",
+        "projectUniqueName": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj",
         "projectName": "ProductManagementSystemApi",
-        "projectPath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj",
+        "projectPath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\obj\\",
+        "outputPath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",

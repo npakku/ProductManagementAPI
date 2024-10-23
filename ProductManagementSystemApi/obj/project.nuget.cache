@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SyGZIDsLbotQ2idPnPojvt5tjSTbXnoxYFvqu8hN4AC4lYgmNGcldh+kyHmR3HQn31punMcCfGaq5PE5+PRWVQ==",
+  "dgSpecHash": "NB2OJlHN5NRHZQNsK5ADvz/k510TIcUvO4vR2ifUQeR+IeJJ5Cqr+Z+dShvfWE0GzbRUlEBEQg7t+0TlSWCWLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj",
+  "projectFilePath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\abc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

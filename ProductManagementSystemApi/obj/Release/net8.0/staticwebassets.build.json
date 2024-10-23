@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E3ZKn3bh624vCLds9wajngZFz4f1jLT6e36EqaFYacs=",
+  "Source": "ProductManagementSystemApi",
+  "BasePath": "_content/ProductManagementSystemApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

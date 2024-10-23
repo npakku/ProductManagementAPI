@@ -4,7 +4,7 @@ using ProductManagementSystemApi.Repository;
 using ProductManagementSystemApi.Repository.IRepository;
 
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -37,6 +37,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-//app.Run();
+app.Run();
 
-app.Run($"http://0.0.0.0:{port}");
+
