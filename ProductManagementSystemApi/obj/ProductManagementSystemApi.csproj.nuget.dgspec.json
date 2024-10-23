@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj": {}
+    "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj": {
+    "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj",
+        "projectUniqueName": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj",
         "projectName": "ProductManagementSystemApi",
-        "projectPath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\ProductManagementSystemApi.csproj",
+        "projectPath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\ProductManagementSystemApi.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemApi\\obj\\",
+        "outputPath": "C:\\Users\\abc\\Documents\\Internship\\ProductManagementSystemApi\\ProductManagementSystemAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,6 +64,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
