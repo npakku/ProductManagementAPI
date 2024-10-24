@@ -23,23 +23,31 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
 ## 3. Send the request and analyze response
 
 # EXAMPLE RESPONSE
-
 [
   {
     "id": 1,
-    "name": "Laptop",
-    "description": "High-end gaming laptop",
-    "price": 1500,
-    "category": "Electronics"
+    "name": "Laptop"
   },
   {
     "id": 2,
-    "name": "Smartphone",
-    "description": "Latest 5G-enabled phone",
-    "price": 800,
-    "category": "Electronics"
+    "name": "Phone"
+  },
+  {
+    "id": 3,
+    "name": "Car"
+  },
+  {
+    "id": 4,
+    "name": "Sample Product"
   }
 ]
+
+# Get Product By Id
+## Endpont GET: product/Id
+
+# Example Request in Postman
+## 1. Set the Method to GET
+## 2. Enter the url : https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/product/2
 
 
 
