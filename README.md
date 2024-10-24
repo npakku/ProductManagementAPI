@@ -48,6 +48,10 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
 # Example Request in Postman
 ## 1. Set the Method to GET
 ## 2. Enter the url : https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/product/2
+## 3. Send request and analyze response
+
+# EXAMPLE RESPONSE 
+{"id":2,"name":"Phone"}
 
 
 
