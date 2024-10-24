@@ -24,27 +24,26 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
 
 # EXAMPLE RESPONSE
 
-# [
+[
   {
     "id": 1,
-    "name": "Laptop"
+    "name": "Laptop",
+    "description": "High-end gaming laptop",
+    "price": 1500,
+    "category": "Electronics"
   },
   {
     "id": 2,
-    "name": "Phone"
-  },
-  {
-    "id": 3,
-    "name": "Car"
-  },
-  {
-    "id": 4,
-    "name": "Sample Product"
+    "name": "Smartphone",
+    "description": "Latest 5G-enabled phone",
+    "price": 800,
+    "category": "Electronics"
   }
 ]
-#
-#
-#
-#
-#
-#
+
+
+
+
+
+
+
