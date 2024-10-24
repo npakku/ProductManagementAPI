@@ -57,7 +57,7 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/pro
 # 4 Create A Product
 ##Endpoint POST: product/
 ##Headers
-##Key	                   Value
+##Key      ----	    Value
 Content-Type	---- application/json
 #Body(raw, json)
 {
