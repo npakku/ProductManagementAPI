@@ -2,7 +2,7 @@
 
 #Base URL
 -------------------------------------------------------------------------------------
-https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
+https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/product
 
 # API Endpoints
 -------------------------------------------------------------------------------------
