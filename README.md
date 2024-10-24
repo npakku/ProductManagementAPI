@@ -58,7 +58,7 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/pro
 ## Endpoint POST: product/
 ## Headers
 ## Key      ----	    Value
-Content-Type	---- application/json
+###Content-Type	---- application/json
 #Body(raw, json)
 {
   "Name" : "Test Two"
