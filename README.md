@@ -8,10 +8,9 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
 -------------------------------------------------------------------------------------
 ## 1. Get All Products
 ## 2. Get Product By Id
-## 3. Get Product By Name
-## 4. Create Product
-## 5. Update Product
-## 6. Delete Product
+## 3. Create Product
+## 4. Update Product
+## 5. Delete Product
 ----------------------------------------------------------------------------------------------
 
 
@@ -43,7 +42,7 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
   }
 ]
 --------------------------------------------------------------------------------------------------------------------
-# 2 Get Product By Id
+# 2 Get Product 
 ##Endpont GET: product/Id
 
 # Example Request in Postman
@@ -54,17 +53,6 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
 ## EXAMPLE RESPONSE 
    { "name": "Car"}
 ------------------------------------------------------------------------------------------------------------------------
-#3 Get Product By Name
-
-##Endpont GET: product/productName
-
-# Example Request in Postman
-##1. Set the Method to GET
-##2. Enter the url : https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/product/products/Car
-##3. Send request and analyze response
-
-## EXAMPLE RESPONSE 
-   { "name": "Car"}
 
 # 4 Create A Product
 ##Endpoint POST: product/
@@ -81,7 +69,7 @@ Content-Type	---- application/json
 ## 3. Send request and analyzer response
 ## SAMPLE RESPONSE
 Successfully Created!
-
+-------------------------------------------------------------------------------------------------------------------------
 # 5. Update Product
 ##Endpoint PUT: product/{productId}
 ##Key	                   Value
