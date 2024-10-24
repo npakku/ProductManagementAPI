@@ -23,7 +23,8 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
 ## 3. Send the request and analyze response
 
 # EXAMPLE RESPONSE
-[
+
+# [
   {
     "id": 1,
     "name": "Laptop"
@@ -41,3 +42,9 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api
     "name": "Sample Product"
   }
 ]
+#
+#
+#
+#
+#
+#
