@@ -76,6 +76,7 @@ Successfully Created!
 Content-Type	---- application/json
 #Body(raw, json)
 {
+  "Id" : 6
   "Name" : "Test Three"
 }
 # Sample Postman Request
