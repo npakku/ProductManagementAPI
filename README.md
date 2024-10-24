@@ -43,12 +43,12 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/pro
 ]
 --------------------------------------------------------------------------------------------------------------------
 # 2 Get Product 
-##Endpont GET: product/Id
+## Endpont GET: product/Id
 
 # Example Request in Postman
-##1. Set the Method to GET
-##2. Enter the url : https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/product/3
-##3. Send request and analyze response
+## 1. Set the Method to GET
+## 2. Enter the url : https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/product/3
+## 3. Send request and analyze response
 
 ## EXAMPLE RESPONSE 
    { "name": "Car"}
@@ -58,8 +58,8 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/pro
 ## Endpoint POST: product/
 ## Headers
 ## Key      ----	    Value
-###Content-Type	---- application/json
-#Body(raw, json)
+### Content-Type	---- application/json
+# Body(raw, json)
 {
   "Name" : "Test Two"
 }
@@ -71,10 +71,10 @@ https://productmgapi-h7hkdpfeedd7a4b3.canadacentral-01.azurewebsites.net/api/pro
 Successfully Created!
 -------------------------------------------------------------------------------------------------------------------------
 # 5. Update Product
-##Endpoint PUT: product/{productId}
-##Key	                   Value
-Content-Type	---- application/json
-#Body(raw, json)
+## Endpoint PUT: product/{productId}
+## Key	                   Value
+## Content-Type	---- application/json
+## Body(raw, json)
 {
   "Id" : 6
   "Name" : "Test Three"
